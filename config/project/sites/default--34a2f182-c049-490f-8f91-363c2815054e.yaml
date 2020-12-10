@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: zh
+name: Craftyblog
+primary: true
+siteGroup: c12001af-24f7-4f6e-a747-f5432d229166
+sortOrder: 1
